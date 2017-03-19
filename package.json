@@ -1,11 +1,11 @@
 {
-  "name": "react-cnode",
+  "name": "react-date",
   "version": "1.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
     "dev": "node server.js",
-    "bulid": "webpack --progress --colors -p"
+    "build": "webpack --progress --colors -p"
   },
   "repository": {
     "type": "git",
